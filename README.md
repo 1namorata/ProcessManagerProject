@@ -23,3 +23,13 @@ It allows creating, listing, and managing processes based on user commands.
 1. Clone or download the project:  
    ```bash
    git clone https://github.com/yourUsername/ProcessManager.git
+
+   Navigate to the project directory:
+   cd ProcessManager
+
+   Compile the Java file:
+   javac ProcessManager.java
+
+   Run the program:
+   java ProcessManager
+
